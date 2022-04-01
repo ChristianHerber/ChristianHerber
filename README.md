@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianHerber&layout=compact&langs_count=16&theme=material-palenight&hide_border=true" />
 </div>
   
-## 🧰 Languages and Tools:
+## 🛠️ Languages and Tools:
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
