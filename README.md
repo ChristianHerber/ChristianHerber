@@ -1,4 +1,4 @@
-## Olá! Eu sou o Christian Herber 👋
+## Hi! I'm Christian Herber 👋
 
 <div>
  <a href="https://www.linkedin.com/in/christianherbersantos/">
